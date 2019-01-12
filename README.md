@@ -12,7 +12,7 @@ This module can add and enable HardwareComposer libs for Huawei hi6210sft device
 
 ## Credits
 - [topjohnwu](https://forum.xda-developers.com/member.php?u=4470081) for Magisk and its module template
-
+- [4PERTURE](https://forum.xda-developers.com/member.php?u=8984156) for making the original script and extracting the required libs
 ## Links
 - [XDA Forum Thread](https://forum.xda-developers.com/p8lite/general/magisk-module-hwcenabler-hi6210sft-t3882121)
 - [DONATIONS](paypal.com/Martiriggiano)
